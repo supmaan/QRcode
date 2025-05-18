@@ -1,4 +1,4 @@
 # QRcode
 Приложение, которое загружает картинку через URL c помощью glide 
 Это загружаемый qr-код
-![Картинка](https://github.com/supmaan/QRcode/blob/main/Снимок%20экрана%202025-05-18%20в%2017.06.49.png)
+![Картинка](https://github.com/supmaan/QRcode/blob/main/apple_qrcode.png)
